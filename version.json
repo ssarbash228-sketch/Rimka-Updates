@@ -1,1 +1,8 @@
-{"version":"0.1.18","mandatory":true,"packageUrl":"https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip","size":1076653314,"sha256":"351D1EB25F289A41B630E83EB53FBCE0BBB360A6292DED88FBFE72FFA22B721D"}
+{
+  "version": "0.1.20",
+  "mandatory": true,
+  "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip",
+  "size": 1082567267,
+  "sha256": "FDA491C89D4EE2CC7641523449276C05676DA275F43FCC44A9681777C7CDA471",
+  "buildId": "RIMKA-0.1.20-41BEEBABE047088D"
+}
