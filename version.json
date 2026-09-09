@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.23",
+    "version":  "0.1.22",
     "mandatory":  true,
     "packageUrl":  "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip",
-    "size":  1514469356,
-    "sha256":  "6F55F6A4548749CA04C051E1F84B4B0383C47CF8FDD53C300C019490E32CEF63",
-    "buildId":  "RIMKA-0.1.23-AVATAR-CATALOG-HOTFIX"
+    "size":  1491499254,
+    "sha256":  "AA2B2BBF5E90BBA4E156C8B26DFC9701E364F71817C2B057203B55FDB2278CA2",
+    "buildId":  "RIMKA-0.1.22-BA6499DBC6195B2B"
 }
