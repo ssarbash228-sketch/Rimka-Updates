@@ -1,8 +1,8 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "mandatory": true,
   "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip",
-  "size": 1511015607,
-  "sha256": "52B011542DA459E04F485A09CE0CC66CB80D7B0301E3262E13243B256FE5FA80",
-  "buildId": "RIMKA-0.1.25-SERGEY-AUTH-PROFESSOR-PRODUCTION"
+  "size": 1522426024,
+  "sha256": "EBABB58312E0BBA4EF7D3CF39FF6EF23C840DD33730131C5297EFED25F1FE8B9",
+  "buildId": "RIMKA-0.1.26-BLITZ-PRODUCTION"
 }
