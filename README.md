@@ -1,17 +1,35 @@
 # Скачать Римку
 
-Эта страница — постоянная публичная точка загрузки Римки для горожан.
+**Это единственная постоянная публичная страница загрузки Римки. Сохраните адрес этой страницы, а не адрес отдельного файла.**
 
-## Windows
+## Windows — Скачать
 
-[Скачать Римку для Windows](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip)
+[**Скачать Римку для Windows**](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.1/Rimka-latest.zip)
 
-## macOS
+1. Скачайте ZIP.
+2. Распакуйте его в отдельную папку.
+3. Запустите Rimka.exe.
 
-[Скачать Римку для Mac](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-macOS-latest.zip)
+Текущая версия: **0.1.34.1**.
 
-## PICO
+## Mac — Скачать
 
-[Скачать Римку для PICO](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-PICO-latest.apk)
+[**Скачать Римку для Mac**](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-macOS-latest.zip)
 
-Файлы Windows и Mac могут иметь разные номера технических hotfix. Всегда начинайте с этой страницы, а не с сохранённой прямой ссылки на файл.
+1. Скачайте ZIP и распакуйте его.
+2. Перенесите Rimka.app в «Программы».
+3. Откройте Rimka.app обычным способом.
+
+Текущая версия: **0.1.34**.
+
+## PICO — как установить и запустить
+
+[**Скачать Римку для PICO**](https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-PICO-latest.apk)
+
+1. Скачайте APK и перенесите его на PICO.
+2. На шлеме откройте «Файловый менеджер», выберите APK и подтвердите установку/обновление.
+3. После установки запускайте Римку из библиотеки приложений PICO — это постоянная точка входа.
+
+Текущая версия: **0.1.34**.
+
+Windows, Mac и PICO могут иметь разные технические номера версии. Ссылки на этой странице взяты из соответствующих platform-specific разделов публичного manifest.
