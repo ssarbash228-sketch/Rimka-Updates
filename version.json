@@ -1,36 +1,82 @@
 {
-  "version": "0.1.34.1",
+  "version": "0.1.34.2",
   "mandatory": true,
-  "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/latest/download/Rimka-latest.zip",
-  "size": 1397184329,
-  "sha256": "551BBBD8D2A5A6B1B0C2CFF4847E8C7E401BA3A72A4CA77E809255F80E93C4D7",
-  "buildId": "RIMKA-0.1.34-LAUNCHER-HOTFIX-198",
+  "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-latest.zip",
+  "size": 712793297,
+  "sha256": "b8dbecfbb96e3be2b352efe7849eafd30ae254c4ad8575f3058be31f1bf902ab",
+  "buildId": "RIMKA-DISTRIBUTION-PRODUCTION-206-WINDOWS",
   "platforms": {
     "windows": {
-      "version": "0.1.34.1",
+      "version": "0.1.34.2",
       "mandatory": true,
-      "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.1/Rimka-latest.zip",
-      "size": 1397184329,
-      "sha256": "551BBBD8D2A5A6B1B0C2CFF4847E8C7E401BA3A72A4CA77E809255F80E93C4D7",
-      "buildId": "RIMKA-0.1.34-LAUNCHER-HOTFIX-198"
+      "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-latest.zip",
+      "size": 712793297,
+      "sha256": "b8dbecfbb96e3be2b352efe7849eafd30ae254c4ad8575f3058be31f1bf902ab",
+      "buildId": "RIMKA-DISTRIBUTION-PRODUCTION-206-WINDOWS"
     },
     "macos": {
-      "version": "0.1.34",
+      "version": "0.1.34.2",
       "mandatory": true,
-      "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-macOS-latest.zip",
-      "size": 717757068,
-      "sha256": "5CD4595ED2047857579CF9D06E817368A75515C348C2207FB58589C7479B9802",
-      "buildId": "RIMKA-0.1.34-PRODUCTION",
-      "sourceCommit": "efcd163254a81feb71355c755462a8f011ae3d63"
+      "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-macOS-latest.zip",
+      "size": 716454050,
+      "sha256": "4faa9bf4eaa8d0802fa3c3f05ed76945097090225ef741fa23848f6e483f9301",
+      "buildId": "RIMKA-DISTRIBUTION-PRODUCTION-206-MAC",
+      "sourceCommit": "dc01cc37"
     },
     "pico": {
       "version": "0.1.34",
-      "mandatory": true,
+      "mandatory": false,
       "packageUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34/Rimka-PICO-latest.apk",
       "size": 487816590,
-      "sha256": "134EC2CD2228E527478161A1B0ADF028CEDAA0AA6F529C9198F425C79504D847",
+      "sha256": "134ec2cd2228e527478161a1b0adf028cedaa0aa6f529c9198f425c79504d847",
       "buildId": "RIMKA-0.1.34-PRODUCTION",
       "sourceCommit": "efcd163254a81feb71355c755462a8f011ae3d63"
+    }
+  },
+  "current": {
+    "windows": {
+      "schemaVersion": 1,
+      "platform": "windows",
+      "artifactVersion": "0.1.34.2",
+      "buildId": "RIMKA-DISTRIBUTION-PRODUCTION-206-WINDOWS",
+      "sourceCommit": "efcd163254a81feb71355c755462a8f011ae3d63",
+      "size": 712793297,
+      "sha256": "b8dbecfbb96e3be2b352efe7849eafd30ae254c4ad8575f3058be31f1bf902ab",
+      "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-Windows-Current.zip",
+      "secondaryUrl": "https://www.dropbox.com/scl/fi/axl5hono1e3csxu0rb0nf/Rimka-Windows-Current.zip?rlkey=n3s7f2svtk7gcpwiap5g66lzd&dl=1",
+      "minimumEntryVersion": "2.0.206.0",
+      "installer": {
+        "name": "Rimka-Windows-Current.exe",
+        "size": 825973940,
+        "sha256": "0e1450a26f59cb76f17fdb7e2bf3a0864645c153f3ae792a4427ad126c81ef2a",
+        "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-Windows-Current.exe",
+        "secondaryUrl": "https://www.dropbox.com/scl/fi/ruuo4ui6gjzitoo5asrol/Rimka-Windows-Current.exe?rlkey=juno45seh5sy3q05xas2irqvb&dl=1"
+      }
+    },
+    "macos": {
+      "schemaVersion": 1,
+      "platform": "macos",
+      "artifactVersion": "0.1.34.2",
+      "buildId": "RIMKA-DISTRIBUTION-PRODUCTION-206-MAC",
+      "sourceCommit": "dc01cc37",
+      "artifactType": "dmg",
+      "size": 756634078,
+      "sha256": "cb578d164c0866fc58ed6d41fb9e4e8b6e8a7fc924a3d8f5bc8aa3d23a962aff",
+      "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-Mac-Current.dmg",
+      "secondaryUrl": "https://www.dropbox.com/scl/fi/xyjelwjbnu8b1zhkht6gq/Rimka-Mac-Current.dmg?rlkey=33ip4o331x99jou4dojsy06y1&dl=1",
+      "minimumEntryVersion": "2.0.206.0"
+    },
+    "pico": {
+      "schemaVersion": 1,
+      "platform": "pico",
+      "artifactVersion": "205-isolated-1",
+      "buildId": "RIMKA-DISTRIBUTION-205-PICO-V1",
+      "sourceCommit": "f695f79a",
+      "artifactType": "zip",
+      "size": 707378834,
+      "sha256": "2a1f8802b12a0c9f48d189471848cc808f7a5cb3b8bc69fb956d788ad4f89665",
+      "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-PICO-Current.zip",
+      "secondaryUrl": "https://www.dropbox.com/scl/fi/o5qnuseakjatl2z3zkn9d/Rimka-PICO-Current.zip?rlkey=huegxm2sszztt68r5dfmxcf7p&dl=1"
     }
   }
 }
