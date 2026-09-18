@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Скачать Римку</title>
+  <style>
+    body{margin:0;background:#efe1bd;color:#4d1919;font:18px Georgia,serif}main{max-width:720px;margin:8vh auto;padding:40px;text-align:center}h1{font-size:52px;margin:0 0 10px}.lead{margin:0 0 36px}.buttons{display:grid;gap:18px}.button{display:block;padding:18px;border:3px solid #9a743c;background:#344431;color:#fff;text-decoration:none;font-size:25px;font-weight:bold}.button:hover{background:#465b42}.note{font-size:16px;line-height:1.5;margin-top:30px}.error{color:#8b0000}
+  </style>
+</head>
+<body><main>
+  <h1>РИМКА</h1>
+  <p class="lead">Salve! Добро пожаловать.</p>
+  <div class="buttons">
+    <a class="button" id="windows" href="#">Windows — Скачать</a>
+    <a class="button" id="macos" href="#">Mac — Скачать</a>
+    <a class="button" id="pico" href="#">PICO — Скачать текущий комплект</a>
+  </div>
+  <p class="note">Windows: запустите скачанный EXE. Mac: откройте DMG и перенесите Rimka.app в Applications. PICO: используйте постоянный персональный вход; комплект нужен только для установки или восстановления.</p>
+  <p class="note error" id="status"></p>
+  <script>
+    const base='https://raw.githubusercontent.com/ssarbash228-sketch/Rimka-Updates/main/';
+    Promise.all(['windows','macos','pico'].map(async platform=>{
+      const response=await fetch(base+platform+'.current.json?'+Date.now());
+      if(!response.ok)throw new Error(platform);
+      const manifest=await response.json();
+      const url=platform==='windows'?manifest.installer.primaryUrl:manifest.primaryUrl;
+      document.getElementById(platform).href=url;
+    })).catch(()=>document.getElementById('status').textContent='Не удалось получить ссылки. Попробуйте обновить страницу.');
+  </script>
+</main></body>
+</html>
