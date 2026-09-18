@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "pico",
+  "artifactVersion": "205-isolated-1",
+  "buildId": "RIMKA-DISTRIBUTION-205-PICO-V1",
+  "sourceCommit": "f695f79a",
+  "artifactType": "zip",
+  "size": 707378834,
+  "sha256": "2a1f8802b12a0c9f48d189471848cc808f7a5cb3b8bc69fb956d788ad4f89665",
+  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.34.2/Rimka-PICO-Current.zip",
+  "secondaryUrl": "https://www.dropbox.com/scl/fi/o5qnuseakjatl2z3zkn9d/Rimka-PICO-Current.zip?rlkey=huegxm2sszztt68r5dfmxcf7p&dl=1"
+}
