@@ -1,1 +1,12 @@
-{"schemaVersion":1,"platform":"windows","artifactVersion":"0.1.37","buildId":"RIMKA-0.1.37-PRODUCTION","sourceCommit":"fdeb5983c941d31fe327c26b39bead289af0a422","size":805474583,"sha256":"e0da8ef7e266bcda1c8059f07200bc189f8819c3277a07f6f61920701f6a3a3d","primaryUrl":"https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.37/Rimka-Windows-Current.zip","secondaryUrl":"https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.37/Rimka-Windows-Current.zip","minimumEntryVersion":"2.0.206.0"}
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "artifactVersion": "0.1.38",
+  "buildId": "RIMKA-0.1.38-RC1",
+  "sourceCommit": "8a3a7b177d64b8a53bfc884688221d76e6b87ff1",
+  "size": 805469327,
+  "sha256": "d4cac4d837b1bbafbf3642bcff4ade86557cb8ee934240889c9c8a80bbe17566",
+  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.38/Rimka-Windows-Current.zip",
+  "secondaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.38/Rimka-Windows-Current.zip",
+  "minimumEntryVersion": "2.0.206.0"
+}
