@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "platform": "pico",
-  "artifactVersion": "0.1.41",
-  "buildId": "RIMKA-0.1.41-PRODUCTION",
-  "sourceCommit": "6eebc64f37af77cf7a1205bac619abd6408ae55c",
-  "size": 975835830,
-  "sha256": "ae06eee5fecafc80b1d0e5817014beae81aeab9952213169a2199867de04e991",
-  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.41/Rimka-PICO-Current.zip",
-  "secondaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.41/Rimka-PICO-Current.zip",
+  "artifactVersion": "0.1.42",
+  "buildId": "RIMKA-0.1.42-PRODUCTION",
+  "sourceCommit": "f98d84831d09b36f9e4991949091a98e6c50d660",
+  "size": 1071960322,
+  "sha256": "6a4428f6dd73a487d8007012c95a2e5e9676e8a0510ba2610ada3ebfa036b64d",
+  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.42/Rimka-PICO-Current.zip",
+  "secondaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.42/Rimka-PICO-Current.zip",
   "entryPolicy": "permanent-profile-specific"
 }

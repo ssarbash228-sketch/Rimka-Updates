@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "platform": "macos",
-  "artifactVersion": "0.1.41",
-  "buildId": "RIMKA-0.1.41-PRODUCTION",
-  "sourceCommit": "6eebc64f37af77cf7a1205bac619abd6408ae55c",
-  "size": 1024406837,
-  "sha256": "1b0a97e522d3f9092256af19e1e0f662cfdc135f034700dc71113a7b87695fe8",
-  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.41/Rimka-Mac-Current.dmg",
-  "secondaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.41/Rimka-Mac-Current.dmg",
+  "artifactVersion": "0.1.42",
+  "buildId": "RIMKA-0.1.42-PRODUCTION",
+  "sourceCommit": "f98d84831d09b36f9e4991949091a98e6c50d660",
+  "size": 1126873657,
+  "sha256": "5effc84532b705a81792bb41a718886e8bc81727b9ccdc7118da09f72303c0d5",
+  "primaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.42/Rimka-Mac-Current.dmg",
+  "secondaryUrl": "https://github.com/ssarbash228-sketch/Rimka-Updates/releases/download/v0.1.42/Rimka-Mac-Current.dmg",
   "minimumEntryVersion": "2.0.206.0",
   "artifactType": "dmg"
 }
